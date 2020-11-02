@@ -131,36 +131,6 @@
 			<lookupValue>false</lookupValue>
 		</globalVariable>
 		<globalVariable>
-			<name>//TemplateProject///framework/hiftransformationxsltpath</name>
-			<value>/opt/data/hif_config/httptojms/hiftransformation.xsl</value>
-			<deploymentSettable>false</deploymentSettable>
-			<serviceSettable>false</serviceSettable>
-			<type>String</type>
-			<isOverride>true</isOverride>
-			<useLookupValue>false</useLookupValue>
-			<lookupValue>/opt/data/hif_config/httptojms/hiftransformation.xsl</lookupValue>
-		</globalVariable>
-		<globalVariable>
-			<name>//TemplateProject///framework/hifroutingxsltpath</name>
-			<value>/opt/data/hif_config/httptojms/hifrouting.xsl</value>
-			<deploymentSettable>false</deploymentSettable>
-			<serviceSettable>false</serviceSettable>
-			<type>String</type>
-			<isOverride>true</isOverride>
-			<useLookupValue>false</useLookupValue>
-			<lookupValue>/opt/data/hif_config/httptojms/hifrouting.xsl</lookupValue>
-		</globalVariable>
-		<globalVariable>
-			<name>//TemplateProject///framework/validatexsdpath</name>
-			<value>/opt/data/hif_config/httptojms/validate.xsd</value>
-			<deploymentSettable>false</deploymentSettable>
-			<serviceSettable>false</serviceSettable>
-			<type>String</type>
-			<isOverride>true</isOverride>
-			<useLookupValue>false</useLookupValue>
-			<lookupValue>/opt/data/hif_config/httptojms/validate.xsd</lookupValue>
-		</globalVariable>
-		<globalVariable>
 			<name>//TemplateProject///framework/Method</name>
 			<value>POST</value>
 			<deploymentSettable>false</deploymentSettable>
